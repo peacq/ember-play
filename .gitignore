@@ -1,0 +1,10 @@
+
+cache/*
+!cache/fake.cache
+/.tags*
+flask.pid
+.DS_Store
+cache/
+*.db
+.idea/
+.vagrant/
